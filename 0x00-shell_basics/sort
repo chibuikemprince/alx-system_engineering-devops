@@ -1,0 +1,29 @@
+total 92
+drwxr-xr-x 4 0 0 4096 Jul 14 04:17 ./
+drwxr-xr-x 4 0 0   60 Jul 13 09:28 ../
+drwxr-xr-x 2 0 0    6 Jul 14 03:18 myfolder/
+drwxr-xr-x 3 0 0   20 Jul 13 11:27 names/
+-rwxr--r-- 1 0 0   16 Jul 13 09:36 0-current_working_directory
+-rwxr--r-- 1 0 0   36 Jul 13 11:05 100-lets_move
+-rwxr--r-- 1 0 0   19 Jul 13 11:17 101-clean_emacs
+-rwxr--r-- 1 0 0   39 Jul 14 02:18 102-tree
+-rwxr--r-- 1 0 0   76 Jul 14 04:20 103-commas
+-rwxr--r-- 1 0 0    6 Jul 14 03:47 10-back
+-rwxr--r-- 1 0 0   30 Jul 13 10:39 11-lists
+-rwxr--r-- 1 0 0   31 Jul 13 10:41 12-file_type
+-rwxr--r-- 1 0 0   33 Jul 13 10:51 13-symbolic_link
+-rwxr--r-- 1 0 0   28 Jul 13 10:57 14-copy_html
+-rwxr--r-- 1 0 0   15 Jul 13 09:43 1-listit
+-rwxr--r-- 1 0 0   17 Jul 13 09:51 2-bring_me_home
+-rwxr--r-- 1 0 0   18 Jul 13 09:56 3-listfiles
+-rwxr--r-- 1 0 0   19 Jul 13 09:56 4-listmorefiles
+-rwxr--r-- 1 0 0   19 Jul 13 09:59 5-listfilesdigitonly
+-rwxr--r-- 1 0 0   42 Jul 13 10:01 6-firstdirectory
+-rwxr--r-- 1 0 0   51 Jul 13 10:18 7-movethatfile
+-rwxr--r-- 1 0 0   46 Jul 13 10:20 8-firstdelete
+-rwxr--r-- 1 0 0   43 Jul 13 10:22 9-firstdirdeletion
+-rwxr--r-- 1 0 0   71 Jul 13 10:07 gitcmd
+lrwxrwxrwx 1 0 0    7 Jul 13 10:51 __ls__ -> /bin/ls
+-rw-r--r-- 1 0 0   24 Jul 13 11:08 README.md
+-rw-r--r-- 1 0 0    0 Jul 14 04:21 sort
+-rw-r--r-- 1 0 0  310 Jul 14 02:28 sort.txt

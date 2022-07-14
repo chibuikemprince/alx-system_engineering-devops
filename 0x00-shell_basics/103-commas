@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamp  --group-directories-first | sort -n
+ls -lamp  | sort -d

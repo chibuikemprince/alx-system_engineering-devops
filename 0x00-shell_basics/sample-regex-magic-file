@@ -1,2 +1,2 @@
-0 regex/l/s/c ^SCHOOL$ School File
+0 regex/c  =^SCHOOL  School File
 !:mime School

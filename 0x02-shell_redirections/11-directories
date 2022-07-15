@@ -1,0 +1,2 @@
+!#/bin/bash
+echo "total $(find .  -path './*'  -type f,d -print | wc -l)"

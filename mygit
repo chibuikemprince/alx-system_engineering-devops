@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .
 git commit -m "Done" 
-git push https://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@github.com/chibuikemprince/alx-system_engineering-devops.git main
+git push https://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@github.com/chibuikemprince/alx-system_engineering-devops.git main
 git status
